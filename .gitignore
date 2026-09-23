@@ -1,0 +1,11 @@
+# Local secrets
+.env
+
+# Backup archives
+backups/
+*.tar.gz
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
