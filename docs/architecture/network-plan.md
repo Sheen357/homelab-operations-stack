@@ -4,8 +4,8 @@
 
 This document defines the proposed network design for the enterprise systems-administration home lab. The design supports Windows domain services, Linux operations, monitoring, remote administration, and future security exercises.
 
-**Environment:** Home Lab  
-**Status:** Proposed  
+**Environment:** Home Lab
+**Status:** Proposed
 **Implementation:** Not yet completed
 
 ## Design Principles

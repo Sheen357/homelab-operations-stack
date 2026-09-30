@@ -16,9 +16,9 @@ Use this document to record completed hands-on activities. Do not record planned
 
 List the work personally completed.
 
-- 
-- 
-- 
+- [Describe action performed]
+- [Describe action performed]
+- [Describe action performed]
 
 ### Validation
 

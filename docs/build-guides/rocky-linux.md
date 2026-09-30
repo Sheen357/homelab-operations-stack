@@ -4,8 +4,8 @@
 
 The Rocky Linux virtual machine provides hands-on Linux systems-administration practice and hosts the lab’s containerized monitoring services.
 
-**Environment:** Home Lab  
-**Virtualization platform:** Microsoft Hyper-V  
+**Environment:** Home Lab
+**Virtualization platform:** Microsoft Hyper-V
 **Operational status:** Current
 
 ## Current Capabilities

@@ -4,7 +4,7 @@
 
 The monitoring stack provides visibility into Linux host health, container performance, service availability, and operational issues within the home lab.
 
-**Environment:** Home Lab  
+**Environment:** Home Lab
 **Status:** Current foundation with additional alerting planned
 
 ## Monitoring Components
